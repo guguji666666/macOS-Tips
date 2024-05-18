@@ -1,4 +1,4 @@
-![image](https://github.com/guguji666666/macOS-Tips/assets/96930989/1cd18ecc-a9b9-4723-b6b8-f9d3baa87c7c)# macOS 分屏
+# macOS 分屏
 
 ## macOS自带分屏
 
@@ -7,7 +7,7 @@
 
 
 ## 三方软件loop实现的分屏（非全屏模式下的分屏）
-### 
+### [超好用的 Mac 窗口管理神器：Loop](https://www.bilibili.com/video/BV1Vm421n7gM/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=1a4ea93e7ce2e9d7a3a55c213b1fee7a)
 
 ### 1. [loop github链接](https://github.com/MrKai77/Loop)  
 ### 2. [下载loop](https://github.com/MrKai77/Loop/releases)
